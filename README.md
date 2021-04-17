@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
      <img height="26" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=ShieldStyle" />
       <img height="26" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
       <img height="26" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=ShieldStyle" />
-      <img height="26" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
       <img height="26" src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=ShieldStyle" />
        <img height="26" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=ShieldStyle" />
       <img height="26" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=ShieldStyle" />
+        <img height="26" src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white&style=ShieldStyle" />
   </div>
 
     
