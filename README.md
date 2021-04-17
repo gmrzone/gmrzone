@@ -27,10 +27,21 @@ You can click the Preview link to take a look at your changes.
   <img height="26" src="https://img.shields.io/badge/Linode-00A95C?logo=Linode&logoColor=white&style=ShieldStyle" />
 </div>
 
+  <h1 align="center">Tools</h1>
+<div>
+  <img height="26" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white&style=ShieldStyle" />
+</div>
+
 <!---
 <h1 align="center">OS</h1>
 <div>
    <img height="26" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white&style=ShieldStyle" />
 </div> --->
+
+
     
