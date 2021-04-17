@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 --->
-  <h1 align="center">Skill Sets</h1>
+  <h1 align="center">Skills</h1>
 <div>
   <img height="26" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&logoColor=white&style=ShieldStyle" />
