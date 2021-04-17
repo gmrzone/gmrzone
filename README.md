@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
      <img height="26" src="https://img.shields.io/badge/Sass-CC6699?logo=SASS&logoColor=white&style=ShieldStyle" />
      <img height="26" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />
      <img height="26" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=ShieldStyle" />
+      <img height="26" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
+      <img height="26" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=ShieldStyle" />
   </div>
 
     
