@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
        <img height="26" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=ShieldStyle" />
       <img height="26" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=ShieldStyle" />
         <img height="26" src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white&style=ShieldStyle" />
+        <img height="26" src="https://img.shields.io/badge/PostgreSql-336791?logo=PostgreSql&logoColor=white&style=ShieldStyle" />
   </div>
 
     
