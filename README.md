@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
   <h1 align="center">Skill Sets</h1>
     <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&logoColor=white&style=ShieldStyle" />
+    <img height="30" src="https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&logoColor=white&style=ShieldStyle" />
     
