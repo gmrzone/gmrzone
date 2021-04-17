@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
   <h1 align="center">Skill Sets</h1>
-    <img align="left" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
     
