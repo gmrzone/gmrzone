@@ -26,6 +26,11 @@ You can click the Preview link to take a look at your changes.
   <img height="26" src="https://img.shields.io/badge/PostgreSql-336791?logo=PostgreSql&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/Linode-00A95C?logo=Linode&logoColor=white&style=ShieldStyle" />
 </div>
-  <h1 align="center">OS</h1>
 
+<!---
+<h1 align="center">OS</h1>
+<div>
+   <img height="26" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white&style=ShieldStyle" />
+</div> --->
     
