@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img height="26" src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/Intellij_IDEA-000000?logo=IntelliJ_IDEA&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white&style=ShieldStyle" />
 </div>
 
 <!---
