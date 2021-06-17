@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmrzone
+- 👋 Hi, I’m AFzal Saiyed
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning ReactNative, Next.js, Node.js
 
