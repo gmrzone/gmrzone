@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img height="26" src="https://img.shields.io/badge/PostgreSql-336791?logo=PostgreSql&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/Linode-00A95C?logo=Linode&logoColor=white&style=ShieldStyle" />
   <img height="26" src="https://img.shields.io/badge/Docker-2496ed?logo=Docker&logoColor=white&style=ShieldStyle" />
+  <img height="26" src="https://img.shields.io/badge/TypeScript-3178c6?logo=Typescript&logoColor=white&style=ShieldStyle" />
 </div>
 
   <h1 align="center">Tools</h1>
