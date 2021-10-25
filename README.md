@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AFzal Saiyed
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning ReactNative, Next.js, Node.js, TypeScript
-- 
 <!-- ![](https://komarev.com/ghpvc/?username=gmrzone&label=PROFILE+VIEWS) -->
 <!---![corecare_screenshot](https://user-images.githubusercontent.com/65633542/113474634-e9ac0e00-9425-11eb-8410-b8d82f062f34.gif)--->
 <!---
